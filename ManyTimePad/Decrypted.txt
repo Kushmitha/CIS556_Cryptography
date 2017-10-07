@@ -1,0 +1,19 @@
+While the number-field sieve is the best method currently known, there exists an intriguing possibility
+This guy's good.
+...over the rationals, and hence contained in a single cyclotomic field.  Using the Artin we might
+You seeing anybody?
+This isn't just about large-number theory. It's about cryptography.
+You mean codes?
+I mean unbreakable codes.
+It would be a breakthrough of Gaussian proportions and allow us to acquire the solution in a dramatical
+Are you seeing...
+Such an approach is purely theoretical. So far, no one has been able to accomplish such constructions y
+The numbers are so unbelievably big, all the computers in the world could not break them down.
+But maybe, just maybe, there's a shortcut. I'll bet you anything he's found it.
+If he has, you're in over your head. I'll get my coat.
+Numbers themselves may be our best tools...
+...may be able to see things in other numbers that we can't.
+
+   Congratulations, you have gotten this far.  But you're not done yet!
+   You can find the rest of the homework problems here:
+   https://www.cis.upenn.edu/~cis556/hw1/hw1.pdf

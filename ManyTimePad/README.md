@@ -1,0 +1,1 @@
+Each line of the ascii plaintext has been encrypted by xoring with the same randomly generated key pad, then encoded in hex. Your task is to decrypt as much of it as possible. You should at least be able to get the entire last line.
